@@ -27,3 +27,6 @@ Duration
 --------
 
 The tutorial will cover four hours
+
+
+Guillaume Cazoulat
